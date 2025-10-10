@@ -20,7 +20,7 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 |----------|-----------|
 | 23 de septiembre de 2024 | [Ver ejercicio](https://drive.google.com/drive/folders/1RNzAIJK0QPo333khY03vPZNgCOC-XaGB) |
 | 30 de septiembre de 2024 | [Ver ejercicio](https://www.youtube.com/watch?v=RCKogZqlgDk) |
-| 7 de octubre de 2024 | _Próximamente_ |
+| 7 de octubre de 2024 - Ejercicio Tutorial Juego de Plataforma 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
 | 14 de octubre de 2024 | _Próximamente_ |
 | 21 de octubre de 2024 | _Próximamente_ |
 | 28 de octubre de 2024 | _Próximamente_ |
