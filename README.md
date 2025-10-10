@@ -1,11 +1,13 @@
 # 📚 Repositorio de Ejercicios - Creación de Videojuegos
 
+![Banner Creación de Videojuegos](https://i.blogs.es/juegos/3405/_articulos_/fotos/articulos/_articulos_-3774609.jpg)
+
 Repositorio dedicado a la documentación y seguimiento de ejercicios realizados durante el curso de Creación de Videojuegos.
 
 ## 👤 Información del Estudiante
 
 - **Nombre:** Torres Tovar Everardo Guadalupe
-- **Grupo:** GIDS5102-E
+- **Grupo:** GIDS5012-E
 - **Materia:** Creación de Videojuegos
 
 ## 🎯 Sobre este repositorio
@@ -20,10 +22,10 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 |----------|-----------|
 | 23 de septiembre de 2024 | [Ver ejercicio](https://drive.google.com/drive/folders/1RNzAIJK0QPo333khY03vPZNgCOC-XaGB) |
 | 30 de septiembre de 2024 | [Ver ejercicio](https://www.youtube.com/watch?v=RCKogZqlgDk) |
-| 6 de octubre de 2024 - Ejercicio Tutorial Juego de Plataforma 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
-| 13 de octubre de 2024 | ⏳ _Próximamente_ |
-| 20 de octubre de 2024 | ⏳ _Próximamente_ |
-| 27 de octubre de 2024 | ⏳ _Próximamente_ |
+| 6 de octubre de 2024 - Actividad 1B: Ejecución de tutoriales juego en 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
+| 14 de octubre de 2024 | ⏳ _Próximamente_ |
+| 21 de octubre de 2024 | ⏳ _Próximamente_ |
+| 28 de octubre de 2024 | ⏳ _Próximamente_ |
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -34,4 +36,4 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 
 ---
 
-*Repositorio académico - GIDS5102-E | Creación de Videojuegos*
+*Repositorio académico - GIDS5012-E | Creación de Videojuegos*
