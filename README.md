@@ -24,8 +24,11 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 29 de septiembre de 2024 | ⏳ _Próximamente_ |
 | 6 de octubre de 2024 - Actividad 1B: Ejecución de tutoriales juego en 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
 | 14 de octubre de 2024 | ⏳ _Próximamente_ |
+| 16 de octubre de 2024 -Tutorial 2 Y Tutorial 3 | ⏳ _Próximamente_ |
 | 21 de octubre de 2024 | ⏳ _Próximamente_ |
+| 23 de octubre de 2024 -Tutorial 4 Y Tutorial 5 | ⏳ _Próximamente_ |
 | 28 de octubre de 2024 | ⏳ _Próximamente_ |
+| 16 de octubre de 2024 -Tutorial 6 Y Tutorial 7 | ⏳ _Próximamente_ |
 
 ## 🛠️ Tecnologías y Herramientas
 
