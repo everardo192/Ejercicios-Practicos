@@ -28,7 +28,7 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 21 de octubre de 2024 | ⏳ _Próximamente_ |
 | 23 de octubre de 2024 -Tutorial 4 Y Tutorial 5 | ⏳ _Próximamente_ |
 | 28 de octubre de 2024 | ⏳ _Próximamente_ |
-| 16 de octubre de 2024 -Tutorial 6 Y Tutorial 7 | ⏳ _Próximamente_ |
+| 31 de octubre de 2024 -Tutorial 6 Y Tutorial 7 | ⏳ _Próximamente_ |
 
 ## 🛠️ Tecnologías y Herramientas
 
