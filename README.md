@@ -1,8 +1,14 @@
 # 📚 Repositorio de Ejercicios - Creación de Videojuegos
 
-![Banner Creación de Videojuegos](https://i.blogs.es/juegos/3405/_articulos_/fotos/articulos/_articulos_-3774609.jpg)
+## Competencias
+Construir soluciones de software y sistemas inteligentes mediante la gestión de proyectos, integración de metodologías, modelos y herramientas de desarrollo bajo la normatividad aplicable para la optimización de proyectos de investigación, innovación, desarrollo tecnológico y de emprendimiento.
 
-Este repositorio estara dedicado a la documentación y al seguimiento de los ejercicios realizados durante el curso de la materia de creación de Videojuegos.
+## Objetivo de la Unidad de Aprendizaje
+El alumno implementará Programación orientada a objetos para el desarrollo de prototipos de aplicaciones para videojuegos.
+
+---
+
+Repositorio dedicado a la documentación y seguimiento de ejercicios realizados durante el curso de Creación de Videojuegos.
 
 ## 👤 Información del Estudiante
 
@@ -34,8 +40,8 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 
 - **Documentación:** Markdown
 - **Control de versiones:** Git & GitHub
-- **Almacenamiento de los documentos:** Google Drive
-- **Plataforma de video para tutoriales:** YouTube
+- **Almacenamiento:** Google Drive
+- **Plataforma de video:** YouTube
 
 ---
 
