@@ -29,7 +29,7 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 13 de octubre de 2025 - Practica Menu Unity | ⏳ _Practica realizada en clase_ |
 | 16 de octubre de 2025 - Tutorial 2 | [Ver ejercicio](https://drive.google.com/file/d/1FF2IBRWqgk9l-F-XRJmQF1t-mxlb2g3G/view) |
 | 16 de octubre de 2025 - Tutorial 3 | [Ver ejercicio](https://drive.google.com/file/d/1Xbn7Tl_YzLhX-PxsNRC3MA-KfyCiGPiB/view) |
-| 21 de octubre de 2025 | ⏳ _Próximamente_ |
+| 20 de octubre de 2025 - Quiz conceptos basicos de C# |  _Quiz realizando en clase_ |
 | 23 de octubre de 2025 - Tutorial 4 y Tutorial 5 | ⏳ _Próximamente_ |
 | 28 de octubre de 2025 | ⏳ _Próximamente_ |
 | 31 de octubre de 2025 - Tutorial 6 y Tutorial 7 | ⏳ _Próximamente_ |
