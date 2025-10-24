@@ -31,7 +31,7 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 16 de octubre de 2025 - Tutorial 3 | [Ver ejercicio](https://drive.google.com/file/d/1Xbn7Tl_YzLhX-PxsNRC3MA-KfyCiGPiB/view) |
 | 20 de octubre de 2025 - Quiz conceptos basicos de C# |  _Quiz realizando en clase_ |
 | 23 de octubre de 2025 - Tutorial 4 y Tutorial 5 | ⏳ _Próximamente_ |
-| 28 de octubre de 2025 | ⏳ _Próximamente_ |
+| 27 de octubre de 2025 - Multijugador con PUN2 | ⏳ _Próximamente_ |
 | 31 de octubre de 2025 - Tutorial 6 y Tutorial 7 | ⏳ _Próximamente_ |
 
 ## 🛠️ Tecnologías y Herramientas
