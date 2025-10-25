@@ -23,13 +23,13 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 
 | 📆 Fecha | 🔗 Enlaces |
 |----------|-----------|
-| 22 de septiembre de 2025 - Tutorial 1 | [Ver ejercicio](https://drive.google.com/file/d/1TkUYsf1UEoNtft3-di2pX1bF3i-PkNKD/view) |
+| 22 de septiembre de 2025 - Tutorial 1 | [Ver ejercicio](https://drive.google.com/file/d/1TkUYsf1UEoNtft3-di2pX1bF3i-PkNKD/view) • [Ver video](https://drive.google.com/file/d/1ta8jDSOf3Hz_n2JAZ7o5CBRfd8e0tpCM/view) |
 | 29 de septiembre de 2025 | ⏳ _Próximamente_ |
 | 6 de octubre de 2025 - Actividad 1B: Ejecución de tutoriales juego en 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
 | 13 de octubre de 2025 - Practica Menu Unity | ⏳ _Practica realizada en clase_ |
 | 16 de octubre de 2025 - Tutorial 2 | [Ver ejercicio](https://drive.google.com/file/d/1FF2IBRWqgk9l-F-XRJmQF1t-mxlb2g3G/view) |
 | 16 de octubre de 2025 - Tutorial 3 | [Ver ejercicio](https://drive.google.com/file/d/1Xbn7Tl_YzLhX-PxsNRC3MA-KfyCiGPiB/view) |
-| 20 de octubre de 2025 - Quiz conceptos basicos de C# |  _Quiz realizando en clase_ |
+| 20 de octubre de 2025 - Quiz conceptos basicos de C# | _Quiz realizado en clase_ |
 | 23 de octubre de 2025 - Tutorial 4 y Tutorial 5 | ⏳ _Próximamente_ |
 | 27 de octubre de 2025 - Multijugador con PUN2 | ⏳ _Próximamente_ |
 | 31 de octubre de 2025 - Tutorial 6 y Tutorial 7 | ⏳ _Próximamente_ |
