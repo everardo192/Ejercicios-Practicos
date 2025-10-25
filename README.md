@@ -12,7 +12,7 @@ Repositorio dedicado a la documentación y seguimiento de ejercicios realizados 
 
 ## 👤 Información del Estudiante
 - **Nombre:** Torres Tovar Everardo Guadalupe
-- **Grupo:** GIDS5012-E
+- **Grupo:** GIDS5102-E
 - **Materia:** Creación de Videojuegos
 
 ## 🎯 Sobre este repositorio
