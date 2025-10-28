@@ -31,9 +31,9 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 16 de octubre de 2025 - Tutorial 3 | [Ver ejercicio](https://drive.google.com/file/d/1Xbn7Tl_YzLhX-PxsNRC3MA-KfyCiGPiB/view) • [Ver video](https://drive.google.com/file/d/1T7AHjSxAQ6lEoo9y-8L719UHQquPTpr8/view) |
 | 20 de octubre de 2025 - Quiz conceptos basicos de C# | _Quiz realizado en clase_ |
 | 23 de octubre de 2025 - Tutorial 4 | [Ver ejercicio](https://drive.google.com/file/d/1g2uhl_nAZlsb8VU7yBzZQ3HqsUepJL8z/view) • [Ver video](https://drive.google.com/file/d/11cQGCpILFSnV-VrKX5UVO7RkFEwLZwHN/view) |
-| 23 de octubre de 2025 - Tutorial 5 | ⏳ _Próximamente_ |
+| 23 de octubre de 2025 - Tutorial 5 | [Ver ejercicio](https://drive.google.com/file/d/1v2F68ZDjNX6juTUAMLfnabKr8pJrq1ns/view) |
 | 27 de octubre de 2025 - Multijugador con PUN2 | ⏳ _Próximamente_ |
-| 31 de octubre de 2025 - Tutorial 6 | ⏳ _Próximamente_ |
+| 31 de octubre de 2025 - Tutorial 6 y Tutorial 7 | ⏳ _Próximamente_ |
 
 ## 🛠️ Tecnologías y Herramientas
 - **Documentación:** Markdown
