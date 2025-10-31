@@ -26,14 +26,14 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 22 de septiembre de 2025 - Tutorial 1 | [Ver ejercicio](https://drive.google.com/file/d/1TkUYsf1UEoNtft3-di2pX1bF3i-PkNKD/view) • [Ver video](https://drive.google.com/file/d/1ta8jDSOf3Hz_n2JAZ7o5CBRfd8e0tpCM/view) |
 | 29 de septiembre de 2025 | ⏳ _Próximamente_ |
 | 6 de octubre de 2025 - Actividad 1B: Ejecución de tutoriales juego en 2D | [Ver ejercicio](https://docs.google.com/document/d/1GnL9nt8NyoojIi4_5g2_xqPNVlyQNqbK/edit) |
-| 13 de octubre de 2025 - Practica Menu Unity | ⏳ _Práctica realizada en clase_ |
+| 13 de octubre de 2025 - Practica Menu Unity | Práctica realizada en clase|
 | 16 de octubre de 2025 - Tutorial 2 | [Ver ejercicio](https://drive.google.com/file/d/1FF2IBRWqgk9l-F-XRJmQF1t-mxlb2g3G/view) • [Ver video](https://drive.google.com/file/d/1HNzYr6yHsdNY0UpO7RkKT-DpidvW1Piq/view) |
 | 16 de octubre de 2025 - Tutorial 3 | [Ver ejercicio](https://drive.google.com/file/d/1Xbn7Tl_YzLhX-PxsNRC3MA-KfyCiGPiB/view) • [Ver video](https://drive.google.com/file/d/1T7AHjSxAQ6lEoo9y-8L719UHQquPTpr8/view) |
 | 20 de octubre de 2025 - Quiz conceptos basicos de C# | _Quiz realizado en clase_ |
 | 23 de octubre de 2025 - Tutorial 4 | [Ver ejercicio](https://drive.google.com/file/d/1g2uhl_nAZlsb8VU7yBzZQ3HqsUepJL8z/view) • [Ver video](https://drive.google.com/file/d/11cQGCpILFSnV-VrKX5UVO7RkFEwLZwHN/view) |
 | 23 de octubre de 2025 - Tutorial 5 | [Ver ejercicio](https://drive.google.com/file/d/1v2F68ZDjNX6juTUAMLfnabKr8pJrq1ns/view) • [Ver video](https://drive.google.com/file/d/1ER3n_AwEcDRNfz8pGGm6Yp3sJTRe9W3L/view) |
 | 27 de octubre de 2025 - Multijugador con PUN2 | Actividad Entregada En Clase |
-| 31 de octubre de 2025 - Tutorial 6 | [Ver ejercicio](https://drive.google.com/file/d/1sMn-1nDMp4bzhQIv-Ci9vkR3qnZjC0aY/view?usp=sharing) |
+| 31 de octubre de 2025 - Tutorial 6 | [Ver ejercicio](https://drive.google.com/file/d/1sMn-1nDMp4bzhQIv-Ci9vkR3qnZjC0aY/view?usp=sharing) • [Ver video](https://drive.google.com/file/d/1GU43_CNMVoYVL0yWH3Bs96l_KBYNTwKn/view) |
 
 ## 🛠️ Tecnologías y Herramientas
 - **Documentación:** Markdown
