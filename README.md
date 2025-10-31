@@ -33,7 +33,7 @@ A continuación se presenta la tabla con los ejercicios organizados por fecha (l
 | 23 de octubre de 2025 - Tutorial 4 | [Ver ejercicio](https://drive.google.com/file/d/1g2uhl_nAZlsb8VU7yBzZQ3HqsUepJL8z/view) • [Ver video](https://drive.google.com/file/d/11cQGCpILFSnV-VrKX5UVO7RkFEwLZwHN/view) |
 | 23 de octubre de 2025 - Tutorial 5 | [Ver ejercicio](https://drive.google.com/file/d/1v2F68ZDjNX6juTUAMLfnabKr8pJrq1ns/view) • [Ver video](https://drive.google.com/file/d/1ER3n_AwEcDRNfz8pGGm6Yp3sJTRe9W3L/view) |
 | 27 de octubre de 2025 - Multijugador con PUN2 | Actividad Entregada En Clase |
-| 31 de octubre de 2025 - Tutorial 6 | ⏳ _Próximamente_ |
+| 31 de octubre de 2025 - Tutorial 6 | [Ver ejercicio](https://drive.google.com/file/d/1sMn-1nDMp4bzhQIv-Ci9vkR3qnZjC0aY/view?usp=sharing) |
 
 ## 🛠️ Tecnologías y Herramientas
 - **Documentación:** Markdown
